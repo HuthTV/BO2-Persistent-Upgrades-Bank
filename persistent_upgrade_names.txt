@@ -1,0 +1,15 @@
+"pers_boarding"                 Stronger barriers
+"pers_revivenoperk"             Faster revive
+"pers_multikill_headshots"      Higher headshot damage
+"pers_cash_back_bought"
+"pers_cash_back_prone"
+"pers_insta_kill"               Red instakill
+"pers_jugg"                     More health
+"pers_carpenter"                Stronger carpenter barriers
+"pers_flopper_counter"          PHD flopper
+"pers_perk_lose_counter"        Retain perk after dowing
+"pers_pistol_points_counter"    More points from pistols
+"pers_double_points_counter"    Cheaper purchases during x2
+"pers_sniper_counter"           More points from snipers
+"pers_box_weapon_counter"       Better box items
+"pers_nube_counter"             Raygun wallbuy
