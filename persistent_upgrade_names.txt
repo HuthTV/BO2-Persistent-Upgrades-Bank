@@ -7,7 +7,7 @@
 "pers_jugg"                     More health
 "pers_carpenter"                Stronger carpenter barriers
 "pers_flopper_counter"          PHD flopper
-"pers_perk_lose_counter"        Retain perk after dowing
+"pers_perk_lose_counter"        Retain perk after going down
 "pers_pistol_points_counter"    More points from pistols
 "pers_double_points_counter"    Cheaper purchases during x2
 "pers_sniper_counter"           More points from snipers
