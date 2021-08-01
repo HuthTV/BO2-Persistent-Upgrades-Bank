@@ -23,7 +23,7 @@ onplayerspawned()
 	self endon( "disconnect" );
 	flag_wait("initial_blackscreen_passed");
 	
-	persistent_upgrades = array("pers_revivenoperk", "pers_insta_kill", "pers_jugg", "pers_perk_lose_counter", "pers_box_weapon_counter", "pers_pistol_points_counter", "pers_double_points_counter", "pers_sniper_counter", "pers_multikill_headshots");
+	persistent_upgrades = array("pers_boarding", "pers_revivenoperk", "pers_multikill_headshots", "pers_cash_back_bought", "pers_cash_back_prone", "pers_insta_kill", "pers_jugg", "pers_carpenter", "pers_perk_lose_counter", "pers_pistol_points_counter", "pers_double_points_counter", "pers_sniper_counter", "pers_box_weapon_counter");
 	
 	if(level.script == zm_buried)
 		persistent_upgrades = combinearrays(persistent_upgrades, array("pers_flopper_counter"));
