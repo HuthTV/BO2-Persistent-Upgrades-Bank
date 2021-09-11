@@ -43,14 +43,9 @@ onplayerspawned()
 	if(have_all_upgrades == 0)
 	{
 		self iprintln("^4github.com/HuthTV ^7- Persistent Upgrades Awarded");
-		wait 2;
-		self iprintln("^1Restarting Game!");
-		wait 5;
-		map_restart(0);
 	}
-
 	
-	if(have_all_upgrades && self.account_value < 250)
+	if(self.account_value < 250)
 	{
 		self maps/mp/zombies/_zm_stats::set_map_stat("depositBox", 250, level.banking_map);
 		self.account_value = 250;
