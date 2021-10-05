@@ -1,16 +1,16 @@
-#Client stat name#							#Description#               	#Value to unlock#
-"pers_boarding"                 Stronger barriers							74
-"pers_revivenoperk"             Faster revive              		17
-"pers_multikill_headshots"      Higher headshot damage				5
-"pers_cash_back_bought"																				50
-"pers_cash_back_prone"																				15
-"pers_insta_kill"               Red instakill									2
-"pers_jugg"                     More health										3
-"pers_carpenter"                Stronger carpenter barriers		1
-"pers_flopper_counter"          PHD flopper										1
-"pers_perk_lose_counter"        Retain perk after going down	3
-"pers_pistol_points_counter"    More points from pistols			1
-"pers_double_points_counter"    Cheaper purchases during x2		1
-"pers_sniper_counter"           More points from snipers			1
-"pers_box_weapon_counter"       Better box items							5
-"pers_nube_counter"             Raygun wallbuy								1
+#Client stat name#		#Description#			#Value to unlock#
+"pers_boarding"			Stronger barriers		74
+"pers_revivenoperk"		Faster revive			17
+"pers_multikill_headshots"	Higher headshot damage  	5
+"pers_cash_back_bought"						50
+"pers_cash_back_prone"						15
+"pers_insta_kill"		Red instakill			2
+"pers_jugg"			More health			3
+"pers_carpenter"		Stronger carpenter barriers	1
+"pers_flopper_counter"		PHD flopper			1
+"pers_perk_lose_counter	"	Retain perks after going down	3
+"pers_pistol_points_counter"	More points from pistols	1
+"pers_double_points_counter"	Cheaper purchases during x2	1
+"pers_sniper_counter"		More points from snipers	1
+"pers_box_weapon_counter"	Better box items		5
+"pers_nube_counter"		Raygun wallbuy			1
