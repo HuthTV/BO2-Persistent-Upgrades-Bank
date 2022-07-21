@@ -2,7 +2,7 @@
 GSC script that will fill the bank and award the player with persistent upgrades. The player is able to set dvars to choose what upgrades are active.
 
 ## Download
-- [Compiled GSC file](https://github.com/HuthTV/BO2-Persistent-Upgrades-Bank/releases/download/2.0/huth_bank_persistent_upgrades.gsc)
+- [Compiled GSC file](https://github.com/HuthTV/BO2-Persistent-Upgrades-Bank/releases/download/2.0/bank_persistent_upgrades.gsc)
 
 ## How to use
 Place the gsc file into C:\Users\\%username%\AppData\Local\Plutonium\storage\t6\scripts\zm. You will need to have hidden folders showing or enter %localappdata% into the search bar to access the folder.
